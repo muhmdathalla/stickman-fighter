@@ -1,0 +1,6 @@
+{
+  "name": "Stickman Physics Combat",
+  "description": "A physics-based stickman fighting game with hand-drawn art style, levels progression, diverse weapons, special abilities, and responsive controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
